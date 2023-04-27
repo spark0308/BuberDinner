@@ -1,3 +1,4 @@
 #exclude all .dll files
 **/*.dll
-
+**/bin/
+**/obj/
