@@ -1,0 +1,3 @@
+#exclude all .dll files
+**/*.dll
+
