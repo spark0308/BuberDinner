@@ -1,0 +1,15 @@
+C:\selfLearning\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.deps.json
+C:\selfLearning\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.dll
+C:\selfLearning\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Application.pdb
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.AssemblyInfo.cs
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.dll
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\refint\BuberDinner.Application.dll
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.pdb
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\ref\BuberDinner.Application.dll
+C:\selfLearning\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.dll
+C:\selfLearning\BuberDinner\BuberDinner.Application\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\selfLearning\BuberDinner\BuberDinner.Application\obj\Debug\net7.0\BuberDinner.Application.csproj.CopyComplete
