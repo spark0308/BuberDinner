@@ -1,0 +1,13 @@
+@host=http://localhost:5023
+
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+    "firstName": "Sankalp",
+    "lastName": "Poinwar",
+    "email": "sankalp@email.com",
+    "password": "Sankalp@12345"
+}
+
+###To seperate to requests put 3 hashtags. and then new request

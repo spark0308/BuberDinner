@@ -1,0 +1,11 @@
+@host=http://localhost:5023
+
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+    "email": "sankalp@email.com",
+    "password": "Sankalp@12345"
+}
+
+###To seperate to requests put 3 hashtags. and then new request
